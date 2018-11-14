@@ -1,0 +1,218 @@
+[
+    {
+        "title": "The Ideal",
+        "description": "This scenario depicts the ideal defined by Georgia law",
+        "length": 1,
+        "content": [
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"On Day 1, you submit a public records letter to a public agency.",
+                "image": ""
+            },
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"Within a few minutes, you receive an email confirming receipt of your request and stating a timetable for when an invoice will be available for you.",
+                "image": ""
+            },
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"Later that day, the public information officer reaches out with an itemized invoice as well as an estimate of how long the request would take.",
+                "image": ""
+            },
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"You send over payment and your receive the documents electronically",
+                "image": ""
+            }
+        ]
+
+    },
+    {
+        "title": "City of East Point",
+        "description": "This scenario depicts the ideal defined by Georgia law",
+        "length": 5,
+        "content": [
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"On Day 1, you send an open records request to the city of East Point for their payroll.",
+                "image": ""
+            }, 
+            {
+                "day":2,
+                "title":"Day 2",
+                "text":"On Day 1, you send an open records request to the city of East Point for their payroll.",
+                "image": ""
+            }
+        ]
+
+    },
+    {
+        "title": "City of Austell",
+        "description": "This scenario depicts the ideal defined by Georgia law",
+        "length": 19,
+        "content": [
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"City clerk sent an interim response",
+                "image": ""
+            },
+            {
+                "day":5,
+                "title":"Day 5",
+                "text":"Clerk sent another response, letting me know they were waiting on the city attorney.",
+                "image": ""
+            },
+            {
+                "day":5,
+                "title":"Day 5",
+                "text":"Clerk sent another email later that same day with a charge estimate of $120 dollars and a timetable of two business days.",
+                "image": ""
+            },
+            {
+                "day":6,
+                "title":"Day 6",
+                "text":"We requested an itemized invoice of the charges. ",
+                "image": ""
+            },
+            {
+                "day":6,
+                "title":"Day 6",
+                "text":"Clerk said invoice would be ready in the next two days and asked for a payment method",
+                "image": ""
+            },
+            {
+                "day":6,
+                "title":"Day 6",
+                "text":"We sent a response, letting her know we had not accepted the charges yet.",
+                "image": ""
+            },
+            {
+                "day":7,
+                "title":"Day 7",
+                "text":"Clerk sent the invoice showing $100 attorney charge and $20 document charge.",
+                "image": ""
+            },
+            {
+                "day":8,
+                "title":"Day 8 (cont.)",
+                "text":"We sent an email to the clerk with further questions about the invoice.",
+                "image": ""
+            },
+            {
+                "day":8,
+                "title":"Day 8 (cont.)",
+                "text":"Clerk said she originally sent email to city attorney who is paid $175 per hour.",
+                "image": ""
+            },
+            {
+                "day":8,
+                "title":"Day 8 (cont.)",
+                "text":"We sent a response asking if it took the lawyer more than 30 minutes to read the email and asking what documents were being gathered",
+                "image": ""
+            },
+            {
+                "day":8,
+                "title":"Day 8 (cont.)",
+                "text":"Clerk replied, saying the lawyer had to look up the section and send it back to her. She also said she has to build the spreadsheet",
+                "image": ""
+            },
+            {
+                "day":19,
+                "title":"Day 19",
+                "text":"We sent a response, asking the clerk to clarify that the attorney was checking the section to determine if the records could be released.",
+                "image": ""
+            },
+            {
+                "day":19,
+                "title":"Day 19 (cont.)",
+                "text":"Clerk confirmed that was the reason for the fees.",
+                "image": ""
+            },
+            {
+                "day":19,
+                "title":"Day 19 (cont.)",
+                "text":"We sent a response, informing the clerk that it is against state law for an agency to charge for the time it takes attorneys to advice on what records can be released. ",
+                "image": ""
+            },
+            {
+                "day":19,
+                "title":"Day 19 (cont.)",
+                "text":"Clerk said she was not aware of the law and reduced the charge to $20.",
+                "image": ""
+            }
+            
+            
+        ]
+
+    },
+    {
+        "title": "Chamblee Police",
+        "description": "This scenario depicts the ideal defined by Georgia law",
+        "length": 28,
+        "content": [
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"You send an open records request.",
+                "image": ""
+            },
+            {
+                "day":11,
+                "title":"Day 11",
+                "text":"You haven't heard back, so you send a follow-up",
+                "image": "<p class='typewriter'>...anyone?</p>"
+            },
+            {
+                "day":15,
+                "title":"Day 15",
+                "text":"You still haven't heard back, so you send another e-mail",
+                "image": ""
+            },
+            {
+                "day":28,
+                "title":"Day 28",
+                "text":"You have yet to hear from the department, so you give them a call",
+                "image": ""
+            },
+            {
+                "day":28,
+                "title":"Day 28",
+                "text":"An hour later, an officer calls and inquires about the request.",
+                "image": ""
+            },
+            {
+                "day":28,
+                "title":"Day 28",
+                "text":"You then receive the records by email after the call.",
+                "image": ""
+            }
+        ]
+
+    },
+    {
+        "title": "City of South Fulton",
+        "description": "This scenario depicts the ideal defined by Georgia law",
+        "length": 2,
+        "content": [
+            {
+                "day":1,
+                "title":"Day 1",
+                "text":"You send a public records request.",
+                "image": "<p class='typewriter'>Dear Agency:</p>"
+            },
+            {
+                "day":2,
+                "title":"Day 2",
+                "text":"You send a public records request.",
+                "image": ""
+            }
+        ]
+
+    }
+]
