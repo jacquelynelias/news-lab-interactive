@@ -1,6 +1,7 @@
 # records-app
 
 > A Vue.js project
+- GA news lab sent different public records requests to different agencies and this walks you through the process of getting responses. Jackie started and didn't have a chance to finish. Engine is set up but styling is not and it's just using sample data. Not expecting to use this, but maybe!
 
 ## Build Setup
 
